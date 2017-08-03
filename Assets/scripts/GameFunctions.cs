@@ -17,4 +17,10 @@ public class GameFunctions : MonoBehaviour {
         Application.LoadLevel(_strDest);
     }
 
+    static public void LoadScene(Object scene)
+    {
+        string str = scene.name;
+        Application.LoadLevel(str);
+    }
+
 }
