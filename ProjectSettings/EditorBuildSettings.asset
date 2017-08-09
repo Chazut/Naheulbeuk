@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/generateurDePerso.unity
     guid: 3c012464d049b3846bc313ed66383e35
+  - enabled: 1
+    path: Assets/scenes/characterInfo.unity
+    guid: d5e5ba77728cfc54caad87e93a06741b

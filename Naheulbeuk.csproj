@@ -84,8 +84,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scripts\ChangeSceneOnClick.cs" />
+    <Compile Include="Assets\scripts\CharacterInfoScene.cs" />
+    <Compile Include="Assets\scripts\CreateTemporaryPersonnage.cs" />
     <Compile Include="Assets\scripts\DisplaySelectedButton.cs" />
     <Compile Include="Assets\scripts\GameFunctions.cs" />
+    <Compile Include="Assets\scripts\InitCharacterInfoScene.cs" />
+    <Compile Include="Assets\scripts\OrigineOrMetier.cs" />
     <Compile Include="Assets\scripts\Personnage.cs" />
     <Compile Include="Assets\scripts\PlayAnimationOnClick.cs" />
     <Compile Include="Assets\scripts\UI_PlayAnimationOnClick.cs" />
